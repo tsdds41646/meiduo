@@ -1,5 +1,5 @@
 var vm = new Vue({
-    el: '#app',
+    el: '#apps',
     delimiters: ['[[', ']]'],
     data: {
         host,

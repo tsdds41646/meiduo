@@ -1,5 +1,5 @@
 var vm = new Vue({
-    el: '#app',
+    el: '#apps',
     delimiters: ['[[', ']]'], // 修改vue模板符号，防止与django冲突
     data: {
         host: host,
